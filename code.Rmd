@@ -1,0 +1,16 @@
+---
+title: "Code"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(tidyverse)
+```
+
+```{r}
+tibble(
+  x = 1:10,
+  y = x + 4
+)
+```

@@ -18,3 +18,9 @@ I can link directly to the [about page](about.html).
 
 Black Tap Milkshakes
 
+
+### Adding code
+
+Here is my [code](code.html).
+
+
