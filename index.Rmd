@@ -16,3 +16,5 @@ I can link directly to the [about page](about.html).
 
 <img src="images/black-tap-milkshakes.jpg" style="width:50%">
 
+Black Tap Milkshakes
+
